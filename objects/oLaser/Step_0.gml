@@ -1,0 +1,2 @@
+move();
+check_collision();
